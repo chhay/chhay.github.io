@@ -8,7 +8,8 @@
 }
 #content {
  	float: left;
-	background-color:green;
+	background-image:url('http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/1/30/1359546539116/single-white-cloud-on-blu-008.jpg');
+	background-attachment:fixed;
 	width: 70%;
 	height: 200px;
 }
